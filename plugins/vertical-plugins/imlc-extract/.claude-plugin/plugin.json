@@ -1,0 +1,8 @@
+{
+  "name": "imlc-extract",
+  "version": "0.1.0",
+  "description": "IMLC (Intercompany Movement Local Currency) SAP ABAP extraction report for BPC upload preparation",
+  "author": {
+    "name": "Anthropic FSI"
+  }
+}
